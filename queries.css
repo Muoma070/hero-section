@@ -280,6 +280,10 @@ Instead , 1Rem = 1Em = 16px */
     grid-row: 1;
   }
 
+  .margin-bottom-md{
+    grid-template-columns: 1fr;
+  }
+
   
   .cta-img-box {
     height: 32rem;
